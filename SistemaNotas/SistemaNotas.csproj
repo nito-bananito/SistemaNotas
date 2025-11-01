@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="Controlador\CarrreraController.cs" />
     <Compile Include="Controlador\DocenteController.cs" />
+    <Compile Include="Controlador\EstudianteController.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
