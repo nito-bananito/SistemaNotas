@@ -29,7 +29,7 @@ namespace SistemaNotas
             new FrmDocentes().Show();
         }
 
-        private void estudiantesToolStripMenuItem_Click(object sender, EventArgs e)
+        private void estudiantesToolStripMenuItem_Click_1(object sender, EventArgs e)
         {
             new FrmEstudiantes().Show();
         }
